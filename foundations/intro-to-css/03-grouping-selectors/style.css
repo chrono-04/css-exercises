@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+/* Before self check: used selector: Button */
+/* After self check: used selector: .first-btn and .second-btn */
+.first-btn .second-btn {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.first-btn {
+  background-color: black;
+  color: white;
+}
+
+.second-btn {
+  background-color: yellow;
+}
