@@ -1,7 +1,9 @@
 /* Add CSS Styling */
 .odd-num {
   background-color: rgb(252, 132, 132);
-  font-family: Verdana, DejaVu Sans, sans-serif;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  /* Before self check: Verdana, DejaVu Sans, sans serif */
+  /* After selc check: Verdana, "DejaVu Sans", sans-serif */
 }
 
 #second-element {
